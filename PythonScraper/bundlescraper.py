@@ -12,5 +12,19 @@ soup = BeautifulSoup(resp.text, 'html.parser')
 sections = soup.find_all("div", class_="section")
 for section in sections[0]:
     print(section.text.strip())
+
+
+sections = {
+    "section1": 1,
+        "h1": "blah",
+        "p": "blahblee",
+        "div": "bloo",
+        "innersection":"blarg",
+    "section2": 2,
+    "h1": "blah",
+    "p": "blahblee",
+    "div": "bloo",
+    "innersection":"blarg"
+}
 # Bundle Tiers
 # twos
