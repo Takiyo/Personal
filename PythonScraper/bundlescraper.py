@@ -15,16 +15,18 @@ for section in sections[0]:
 
 
 sections = {
-    "section1": 1,
-        "h1": "blah",
-        "p": "blahblee",
-        "div": "bloo",
-        "innersection":"blarg",
-    "section2": 2,
+    "section1": {
         "h1": "blah",
         "p": "blahblee",
         "div": "bloo",
         "innersection":"blarg"
+    },
+    "section2": {
+        "h1": "blah",
+        "p": "blahblee",
+        "div": "bloo",
+        "innersection":"blarg"
+    }
 }
 # Bundle Tiers
 # twos
