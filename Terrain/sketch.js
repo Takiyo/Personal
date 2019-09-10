@@ -97,7 +97,7 @@ function drawTerrain(){
     //  }
       if (!toFlatten){
         stroke(map(terrain[x][y], valley, hill, 0, 255));
-        ertex(x*scl, (y+1)*scl, terrain[x][y+1]);
+        vertex(x*scl, (y+1)*scl, terrain[x][y+1]);
         vertex((x+1)*scl, (y+1)*scl, terrain[x+1][y+1]);
         vertex((x+1)*scl, y*scl, terrain[x+1][y]);
       } else if (!flattened){
