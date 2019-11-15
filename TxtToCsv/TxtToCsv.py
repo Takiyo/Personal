@@ -4,9 +4,6 @@ import re
 txt_file = r"DoorTxt.txt"
 csv_file = r"ConvertedCsv.csv"
 
-
-test_str = ""
-
 with open(txt_file, 'r', newline='\n') as in_txt:
     test_str = in_txt.read().strip()
 
