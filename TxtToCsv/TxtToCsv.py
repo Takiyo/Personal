@@ -7,7 +7,6 @@ csv_file = r"ConvertedCsv.csv"
 with open(txt_file, 'r', newline='\n') as in_txt:
     test_str = in_txt.read().strip()
 
-
     test_str = re.sub(',', '.', test_str)
     test_str = re.sub(' +', ',', test_str)
     test_str = re.sub('\r', '', test_str)
