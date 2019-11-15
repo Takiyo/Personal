@@ -1,0 +1,395 @@
+
+
+
+   11/14/19                         User   Report                              1
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   489   ,PDBackDoor           PDBackDooronly
+   432   ,TEMS                 PDonly
+   423   ,Tri-CityRefrige      CityHallonly  Maintenance
+   600   Adams,Gary            CityHallonly
+
+   478   Allworden,Alexis      PDonly        Police     743
+   965   Ambulance,SRT         FullAccess    Police
+   286   Anderson,Karen        CityHallonly  Assessor
+   577   Anderson,Sarah        CityHallonly  CityHall
+
+   37    Andrys,Todd           FullAccess    Police     823
+   547   Andrys,Todd           FullAccess    Police
+   282   Andrys(Blank),Todd    FullAccess    Police     823
+   494   Andrys(ID),Todd       FullAccess    Police     823
+
+   603   Ashbeck,Gordon        FullAccess
+   96    Ashbeck,Kraig         CityHallonly  Engineering
+   257   Austin,Jesse          VoidUsers     RCCA
+   612   Bachman,Joseph        CityHallonly
+
+   238   Bailey,David          FullplusEvidence                                             Police     847
+   527   Bailey,DavidS         FullplusEvidence                                             Police     823
+   546   Bailey,DavidS         FullplusEvidence                                             Police     823
+
+   495   Bailey(ID),David      FullplusEvidence                                             Police     847
+   431   Baker,Dawn            FullAccess
+   361   Baker,Terry           FullAccess
+   601   Bargender,Kevin       CityHallonly
+
+   230   Becker,Shawn          FullAccess    Police/WCSD403
+   323   Bernette,Jaron        PDonly
+   188   Bertolini,Karen       1stFloor      Police     660
+   501   Blaser,Shane          CityHallonly
+
+   467   Blevins,Erman         FullAccess    Police     800
+   508   Blevins,Erman         FullAccess               800
+   602   Blystone,James        CityHallonly
+   528   Borchardt,AndrewP     FullAccess    Police     832
+
+   33    Borchardt,Drew        FullAccess    Police     837
+   329   Borchardt(ID),Drew    FullAccess    Police     837
+   586   Boyd,Jodee            CityHallonly
+   447   Bravick,Sue           CityHallonly  CityClerksOff
+
+   370   Bravik,Susan          CityHallonly  HumanResour
+   170   Bredl,Gordy           FullAccess    Unifirst
+   562   Brockman,Nick         PDonly                   748
+   594   Brytowski,Takiyo      FullAccess
+
+   261   Buerger,Julie         FullplusEvidence                                             Police     822
+   509   Buerger,Julie         FullplusEvidence
+   550   Buerger,JulieL        FullplusEvidence                                             Police     820
+   517   Buerger,ThomasW       VoidUsers     Police     831
+
+   218   Buerger,Tom           VoidUsers     Police     834
+   169   Buerger(ID),Julie     FullplusEvidence                                             Police     822
+
+
+
+   11/14/19                         User   Report                              2
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   202   Buerger(ID),Tom       VoidUsers     Police     834
+   956   Buerger(SRT),Tom      VoidUsers     Police     834
+   583   Burdick,Nicole        CityHallonly
+   514   Burger,Michael        FullAccess    Police
+
+   462   Burger,Mike           FullAccess    Police     621
+   28    Burris,Brad           FullAccess    Police     839
+   536   Burris,BradleyS       FullAccess    Police     835
+   72    Burris(ID),Brad       FullAccess    Police     839
+
+   503   Cattanach,Jake        CityHallonly
+   410   Clark,Jennifer        CityHallonly  Mayor
+   468   Clark,Sabina          FullAccess
+   590   Conner,Justin         CityHallonly  IT
+
+   614   Contreras,Gabe        FullAccess
+   615   Contreras,GabrielC    FullAccess
+   15    Cornette,Matt         FullAccess    Police     812
+   526   Cornette,MatthewA     FullAccess    Police     810
+
+   273   Cornette(ID),Matt     FullAccess    Police     812
+   970   Cornette(SRT),Matt    FullAccess    Police     812
+   552   Danekmeyer,Elizabeth  CityHallonly
+
+   226   Daven,Eric            FullAccess    Police     852
+   518   Daven,Eric            FullAccess    Police
+   398   Daven(ID),Eric        FullAccess    Police     852
+   95    Desorcy,Dawn          CityHallonly  Parks
+
+   88    Desorcy,Tim           CityHallonly  Finance
+   479   Devine,Courtney       PDonly        Police     734
+   209   Dewitt,Scott          FullAccess    Police     844
+   512   Dewitt,Scott          FullAccess    Police
+
+   208   Dewitt(ID),Scott      FullAccess    Police     844
+   962   Dewitt(SRT),Scott     FullAccess    Police     844
+   356   Dorhorst,Kalvin       PDonly        WOSO
+   231   Dorshorst,Randy       FullAccess    Police/WCSD401
+
+   565   Drew,Gunner           PDonly                   750
+   395   Drew,Scott            PDonly        Police/WCSD412
+   472   Dums,Nicholas         CityHallonly  Engineering
+   606   Dupree,Bruce          FullAccess
+
+   51    Eckes,Todd            FullAccess    Fire
+   482   Ehleiter,Bradley      PDonly        Police     742
+   207   Eichsteadt,Joe        CityHallonly  Engineering
+   187   Ellis,Quentin         PDonly        Police/WCSD404
+
+   136   Extra#1,MaintenanceDept                               CityHallonly  Street
+   276   Extra#2,MaintenanceDept                               CityHallonly  Street
+   235   Extra#3,MaintenanceDept                               CityHallonly  Street
+   125   Extra#4,MaintenanceDept                               CityHallonly  Street
+
+   126   Extra#5,MaintenanceDept                               CityHallonly  Street
+   127   Extra#6,MaintenanceDept                               CityHallonly  Street
+
+
+
+   11/14/19                         User   Report                              3
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   419   Fleisner,Dean         FullAccess    Police
+   525   Fleisner,DeanE        FullAccess    Police     813
+   173   Fleisner(ID),Dean     FullAccess    Police     836
+   8     Flewellen,Joel        FullAccess    Police     804
+
+   542   Flewellen,JoelA       FullAccess    Police     803
+   336   Flewellen(ID),Joel    FullAccess    Police     804
+   1015  Forsythe,Dave         FullAccess    Police/DCI
+   473   Foy,Joseph            FullAccess    Police
+
+   541   Foy,JosephF           FullAccess    Police     848
+   554   Fuehrer,Lorelei       CityHallonly
+   412   Gabrielson,Erin       CityHallonly  Finance
+   200   Garski,Mike           FullAccess    Street
+
+   67    Gebert,Tim            CityHallonly  Attorney
+   457   Gerlach,Brett         VoidUsers                729
+   578   Gerlach,Brett         VoidUsers                854
+   580   Gerlach,BrettL        VoidUsers                854
+
+   521   Gessert,DustinJ       VoidUsers     Police     836
+   140   Gessert(ID),Dustin    VoidUsers     Police     842
+   967   Gessert(SRT),Dustin   VoidUsers     Police     842
+
+   443   Ghiloni,Bev           1stFloor      Police
+   474   Giefer,Ryan           CityHallonly
+   559   Gonzalez,JoseF        PDonly        Police     715
+   589   Gossick,JenniferM     CityHallonly
+
+   502   Graf,Lee              CityHallonly
+   376   Grimm,Benjamin        CityHallonly
+   401   Grimm,Benjamin        CityHallonly
+   342   Guse,Jacob            FullAccess    Police     689
+
+   343   Guse,Jacob            FullAccess    Police     689
+   538   Guse,JacobA           FullAccess    Police
+   567   HagaJr.,Louis         PDonly                   752
+   505   Hardina,Austin        PDonly        Police     725
+
+   430   Heideman,Matt         FullAccess    Parks
+   80    Heinz,Richard         VoidUsers     Engineering
+   455   Heiser,Shane          PDonly
+   439   Hintz,Colton          PDonly        Police     724
+
+   593   Hladilek,Sue          1stFloor      Police     665
+   333   Iverson,Derick        PDonly        Police/MFPD
+   264   Jazdzewski,Jordan     FullAccess    Police     848
+   599   Jazdzewski,Jordan     FullAccess    Police
+
+   263   Jazdzewski(ID),Jordan FullAccess    Police     848
+   87    JuvenileIntake,WCDSS  PDFrontaccess HumanService
+   588   Kastenholz,Pete       FullAccess    Police
+   120   Keena,Lori            1stFloor      Police
+
+   73    Kellogg,Scott         CityHallonly  City
+   492   Khang,Fue             FullAccess               858
+
+
+
+   11/14/19                         User   Report                              4
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   493   Khang,Fue             FullAccess               858
+   535   Khang,Fue             FullAccess    Police     846
+   433   Killian,ScottC        FullAccess    Police
+   539   Killian,ScottC        FullAccess    Police     845
+
+   39    Klish,Veronica        1stFloor      Police     653
+   454   Klismith,William      PDonly                   728
+   206   Knapp,John            FullAccess    Street
+   167   Knapp(2),John         FullAccess    Street
+
+   499   Koback,Dalton         PDonly                   730
+   491   Koch,Kelsey           VoidUsers     Police
+   378   Koth,Steve            CityHallonly
+   488   Krakow,Jennifer       PDonly        Police     735
+
+   27    Krakow,Rod            FullAccess    Police     833
+   524   Krakow,RodneyI        FullAccess    Police     830
+   268   Krakow(ID),Rod        FullAccess    Police     833
+   971   Krakow(SRT),Rod       FullAccess    Police     833
+
+   540   Krier,LucasP          FullAccess    Police     849
+   422   Krier,Lukas           FullAccess    Police
+   13    Krzykowski,Brian      FullAccess    Police     801
+
+   477   Krzykowski,Brian      FullAccess    Police
+   619   Krzykowski,BrianS     FullAccess    Police     802
+   50    Krzykowski(ID),Brian  FullAccess    Police     801
+   582   Kukler,Michael        CityHallonly  Engineering
+
+   375   LaBarre,Casey         FullAccess    Police     805
+   523   Labarre,CaseyK        FullAccess    Police     804
+   407   LaBarre(ID),Casey     FullAccess    Police     820
+   480   Ladwig,Madison        PDonly        Police     745
+
+   337   Lampert,Lee           VoidUsers     Police     813
+   476   Lampert,Lee           VoidUsers     Police
+   516   Lampert,Lee           VoidUsers     Police
+   75    Lampert(ID),Lee       VoidUsers     Police     813
+
+   958   Lampert(SRT),Lee      VoidUsers     Police     813
+   496   Landowski,Brian       FullAccess    Engineering
+   564   Lech,Makenzie         PDonly                   749
+   195   LockBox,WRFD          FullAccess    Fire
+
+   353   Lockbox,Backdoor      PDBackDooronly
+   241   Lockbox,OuterLobby    CHMainDoorOnlyPolice
+   303   Lubeck,Jordan         FullAccess    Police     854
+   308   Lubeck,Jordan         FullAccess    Police     854
+
+   534   Lubeck,JordanL        FullAccess    Police     842
+   616   Malsom,Donovan        FullAccess
+   617   malsom,DonovanD       FullAccess
+   191   McEvers,Kathleen      CityHallonly  Finance
+
+   222   Menning,Karen         FullAccess    AdvJanitorial
+   587   Mickelson,Tyler       FullAccess
+
+
+
+   11/14/19                         User   Report                              5
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   351   Midthun,Susan         CityHallonly  Engineering
+   595   Mocadlo,Jacob         FullAccess               853
+   596   Mocadlo,JacobS.       FullAccess               853
+   553   Morzewski,Dan         FullAccess
+
+   592   Nelson,Brian          FullAccess    Maintenance
+   563   O'Neil,Cole           PDonly                   747
+   543   Olivares,g            FullAccess               829
+   460   Olivares,g            FullAccess               829
+
+   344   Olivares,German       FullAccess    Police     628
+   584   Olivares,German       FullAccess
+   510   Olivares,German       FullAccess
+   557   Paltz,Jacob           FullAccess    Police
+
+   549   Paltz,JacobC          FullAccess    Police     850
+   548   Paltz,JakeC           FullAccess    Police     850
+   568   Paltz,Joshua          PDonly                   753
+   334   Pedersen,Melvin       PDonly
+
+   604   Pegram,Josh           FullAccess
+   30    Pelot,Dan             FullAccess    Police     838
+   544   Pelot,Daniels         FullAccess    Police     834
+
+   399   Pelot(ID),Dan         FullAccess    Police     838
+   964   Pelot(SRT),Dan        FullAccess    Police     838
+   466   Petz,Madelin          CityHallonly  Planning&Ec
+   354   Pigeon,James          PDonly        WOSO
+
+   556   Pleet,Kyle            PDonly
+   372   Plowman,Travis        FullAccess    RiverCityCom
+   608   Plowman,Travis        FullAccess               856
+   611   Plowman.,Travis       FullAccess    Police     856
+
+   511   Potocki,Michael       FullAccess    Police
+   14    Potocki,Mike          FullAccess    Police     810
+   254   Potocki(ID),Mike      FullAccess    Police     810
+   960   Potocki(SRT),Mike     FullAccess    Police     810
+
+   597   Radig,Andrew          CityHallonly
+   581   Radtke,Ross           FullAccess    Police
+   533   Radtke,RossA          FullAccess    Police     841
+   249   Radtke,Terry          CityHallonly  Engineering
+
+   210   Radtke(ID),Ross       FullAccess    Police     853
+   406   Rayome,Tom            CityHallonly  City
+   551   Reblin,Nate           PDonly
+   486   Reed,Victoria         PDonly                   746
+
+   155   Richter,Josh          FullplusEvidence                                             Police     821
+   515   Richter,Josh          FullplusEvidence                                             Police     821
+   411   Richter(ID),Josh      FullplusEvidence                                             Police     821
+   959   Richter(SRT),Josh     FullAccess    Police     821
+
+   504   Rybicki,Trevor        PDonly        Police     740
+   234   Saeger,Scott          PDonly        Police/WCSD433
+
+
+
+   11/14/19                         User   Report                              6
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   485   Sawyer,Conrad         PDonly        Police     738
+   66    Schill,Sue            CityHallonly  Attorney
+   382   Schlichting,Cindy     CityHallonly  Finance
+   555   Schmitz,Kendra        FullAccess    PhysTherapist
+
+   220   Schoff,Bruce          CityHallonly  Street
+   288   Schulze,Marc          CityHallonly  Engineering
+   464   Scott,Killian         FullAccess
+   529   Shepro,Steve          CityHallonly  Assessor
+
+   1021  ShiftComLocker,Spare-CH                               City                                OnlHallonly
+   1022  ShiftComLocker,Spare-Full                               FullAccess
+   426   Sickler,Jeremy        CityHallonly  PublicWorks
+   402   Simon,Andrew          PDonly
+
+   70    Sloat,Diane           CityHallonly  Fire
+   484   Smazal,Clint          PDonly                   739
+   446   Stack,James           CityHallonly  City
+   613   Starks,Ray            CityHallonly
+
+   469   Starks,Raymond        VoidUsers     Planning&Eco
+   64    Stormoen,Matt         FullAccess    InfoSystems
+   610   Strey,CodyM           FullAccess    Police     855
+
+   607   Strey,CodyM           FullAccess    Police     855
+   358   Tague,Scott           CityHallonly  Engineering
+   475   Tauschek,Morgan       CityHallonly  HR
+   250   Tegen,Adam            CityHallonly  Plan&EconDe
+
+   405   Terry,Joe             CityHallonly  PublicWorks
+   456   Thao,Steven           PDonly                   732
+   367   Turner,Trey           PDonly        Police
+   307   Unit,TEMS             1stFloor      Fire
+
+   490   Urban,DawnE           CityHallonly
+   258   VanBerkel,Doug        FullAccess    Police     851
+   532   VanBerkel,DouglasK    FullAccess    Police     840
+   259   VanBerkel(ID),Doug    FullAccess    Police     851
+
+   618   Verjinsky,Vernon      CityHallonly
+   176   Vollert,Paul          FullAccess    Street
+   620   volz,josh             CityHallonly
+   605   Vruwink,Kathleen      FullAccess
+
+   389   Vruwink,Zach          CityHallonly  Mayor
+   306   West,Cherylynn        1stFloor      Police
+   18    Wetterau,Cody         FullAccess    Police     846
+   519   Wetterau,CodyJ        FullplusEvidence                                             Police     824
+
+   2     Wetterau(ID),Cody     FullAccess    Police     846
+   591   Wolosek,Mary          CityHallonly  Parks
+   569   Yang,Tina             PDonly                   754
+   45    Young,Scott           VoidUsers     Fire
+
+   585   Young,Scott           FullAccess
+   579   Zalewski,Paul         FullAccess    Police     851
+
+
+
+   11/14/19                         User   Report                              7
+
+   Card#  Name                 AccessGrp     Dept       Employee#TelExt    IN/OUT
+
+
+   531   Zalewski,Paul         FullAccess    Police     851
+   436   Zurfluh,Joe           CityHallonly
+
